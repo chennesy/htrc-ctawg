@@ -1,6 +1,4 @@
 # HTRC Module
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/chennesy/htrc-ctawg/master)
-
 
 **Instructor: Cody Hennesy**
 
